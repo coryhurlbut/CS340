@@ -1,1 +1,11 @@
-# CS340
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+    -I wrote the CRUD module in a generic way that allows the module to be used in many ways. It is not hardcoded and can be used to perform about any query, making it reusable and maintainable. This allows for less rewriting and changes later on as other features will already be supported on the current framework. This CRUD module could be expanded greatly or be used very speciically, it depends on the needs of the user.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+    -I learned programming with OOP so I tend to look at it in terms of the objects or pieces involved and how they interact. I can then build the objects and connect them as designed. This project was much more invovled as it was a fullstack application but I appreciate that each part was taught along the way and it really showed how everything connected. I would make sure to ask as many questions as possible to help set up the structure how they intend it. From my experience, the database structure is something that is annoying to correct later and can be avoided if we are diligent about the requirements of it at the start. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+    -Computer scientists are a particular focus within programming and development that specialize in managing resources efficiently and having a strong understanding of the overall interworkings of systems at large. Without computer scientists, there would be a gap between front end and back end, or applications and networks, etc. It is important to have a broad knowledge with enough depth to tie everythong together. I would help Grazioso Salvare by ensuring their computer based products/systems meet their requirements and can be managed effectively.
